@@ -13,6 +13,7 @@
 ### Usage (instructions to be modified after publishing the package to npm registry)
 Until this package is published to npm registry, simply clone the repo and run it locally using `npx`<br>
 ```
+npm install
 npm link
 npx govuk-prototype-templates
 ```
