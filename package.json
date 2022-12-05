@@ -1,0 +1,33 @@
+{
+  "name": "govuk-prototype-templates",
+  "version": "1.0.0",
+  "description": "Create GDS prototypes with one or more design systems. Add one or more design system to existing GDS prototype",
+  "engines": {
+    "node": ">=12.0.0 <17.0.0"
+  },
+  "bin": {
+    "govuk-prototype-templates": "./bin/create-govuk-prototype-app.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CapgeminiInventUK/govuk-prototype-templates.git"
+  },
+  "keywords": [
+    "govuk",
+    "prototype",
+    "templates",
+    "gds"
+  ],
+  "author": "CapgeminiInventUK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CapgeminiInventUK/govuk-prototype-templates/issues"
+  },
+  "homepage": "https://github.com/CapgeminiInventUK/govuk-prototype-templates#readme",
+  "dependencies": {
+    "inquirer": "8.2.4"
+  }
+}
